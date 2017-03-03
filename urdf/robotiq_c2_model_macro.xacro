@@ -10,7 +10,7 @@
 
 
 <robot xmlns:xacro="http://ros.org/wiki/xacro">
-<xacro:include filename="$(find robotiq_c2_model_vizualization)/urdf/robotiq_c2_model.gazebo.xacro" />
+<xacro:include filename="$(find robotiq_c2_model_visualization)/urdf/robotiq_c2_model.gazebo.xacro" />
   <xacro:macro name="robotiq_c2_model" params="prefix parent *origin">
     <xacro:robotiq_c2_model_gazebo prefix="${prefix}"/>
 
