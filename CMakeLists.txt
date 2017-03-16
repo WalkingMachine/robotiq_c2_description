@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(robotiq_c2_model_visualization)
+project(robotiq_c2_description)
 
 find_package(catkin REQUIRED)
 

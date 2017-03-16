@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>robotiq_c2_model_visualization</name>
+  <name>robotiq_c2_description</name>
   <version>1.0.0</version>
   <description>
     <p>
